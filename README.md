@@ -1,1 +1,3 @@
 # lexical-jsdetector
+
+Coming soon!
